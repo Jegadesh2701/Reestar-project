@@ -1,0 +1,109 @@
+
+body {
+    font-family: "Oleo Script", cursive;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    background-color: #fff8f0;
+}
+
+
+.reestar__navbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.reestar__title {
+    margin: 0;
+    font-size: 36px;
+}
+
+.reestar__desc {
+    margin: 5px 0;
+}
+
+
+.reestar-menu {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 30px;
+    background-color: bisque;
+}
+
+.reestar-menu__one,
+.reestar-menu__two,
+.reestar-menu__three,
+.reestar-menu__four {
+    width: 220px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: #fff;
+    color: black;
+}
+
+.reestar-menu__image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.reestar-menu__title {
+    margin: 10px 0 5px;
+    font-size: 20px;
+}
+
+.reestar-menu__desc {
+    font-size: 14px;
+    margin: 5px 0 10px;
+}
+
+.reestar-menu__button {
+    background-color: aqua;
+    color: black;
+    padding: 5px 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.reestar-enquiry {
+    background-color: black;
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.reestar-enquiry__title {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.reestar-enquiry__table {
+    margin: 0 auto;
+    color: white;
+    font-size: 16px;
+}
+
+.reestar-enquiry__input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.reestar-enquiry__button {
+    background-color: yellow;
+    border: 2px solid black;
+    padding: 5px 15px;
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+
+}
