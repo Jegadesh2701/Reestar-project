@@ -20,3 +20,6 @@ CSS3
 
 Project Purpose:
 This project was built as a beginner-level front-end practice to learn and apply the basic structure and design principles of static websites using HTML and CSS without any frameworks or JavaScript.
+
+Live view 
+https://jegadesh2701.github.io/Reestar-project/
